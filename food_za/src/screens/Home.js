@@ -12,9 +12,13 @@ export default function home() {
     <div>
       <Carousel/>
     </div>
-    <div>
+    <div className='m-3'>
+      <Cards/>
+      <Cards/>
+      <Cards/>
       <Cards/>
     </div>
+
       <div>
         <Footer />
       </div>
